@@ -85,18 +85,11 @@ Top level domain expansion
 
 ![267597020-e50cd108-243d-4849-aa93-8052d1b0db11](https://github.com/Sanjay-2610/Enumeration/assets/91368803/11d67699-b7df-4cc9-a22f-d9fea64911a5)
 
-
-
-
-##smtp-user-enum
+### smtp-user-enum
 ![267597550-3d40d01f-31d1-4144-90e5-c90d336a3de8](https://github.com/Sanjay-2610/Enumeration/assets/91368803/3d5c13cb-7de1-4917-ad77-58fc35791f7d)
-
-
 
 ## nmap –script smtp-enum-users.nse <hostname>
 ![267597618-173bffb2-9bd9-4b67-ae7d-d1a2098725b6](https://github.com/Sanjay-2610/Enumeration/assets/91368803/67d820c5-8b2b-4ff4-9aa7-bff6010e4809)
-
-  
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
